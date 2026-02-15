@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SashMay12
+# 👋 Hi, I'm Aleksandr
 
 🎓 Student in Applied Informatics in Economics  
 ⚽ I play football  
@@ -70,4 +70,4 @@ All activities were conducted strictly for educational and ethical purposes.
 
 ## 📫 Contact
 
-GitHub: SashMay12
+- **Telegram** - [@sash_may] (https://t.me/sash_may) 
