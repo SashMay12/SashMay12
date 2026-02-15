@@ -70,4 +70,4 @@ All activities were conducted strictly for educational and ethical purposes.
 
 ## 📫 Contact
 
-- **Telegram** - [@sash_may] (https://t.me/sash_may) 
+- **Telegram** - [@sash_may](https://t.me/sash_may) 
