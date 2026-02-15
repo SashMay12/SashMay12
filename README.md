@@ -2,32 +2,54 @@
 
 🎓 Student in Applied Informatics in Economics  
 ⚽ I play football  
-💻 Interested in software development and IT technologies
+💻 Interested in software development and cybersecurity fundamentals
 
 ---
 
 ## 🧠 About Me
 
-I am currently studying Applied Informatics in Economics.  
-During my studies, I work with programming, databases, and information systems, focusing on practical tasks and analytical thinking.
+I am currently studying Applied Informatics in Economics, focusing on programming,
+databases, and information systems.
 
-I am motivated to grow professionally, gain real-world experience, and apply my knowledge in internships or entry-level positions in IT.
+In addition to my formal education, I **independently studied ethical hacking and
+cybersecurity fundamentals outside the academic curriculum**, practicing in controlled lab environments.
+
+---
+
+## 📘 Self-Study in Cybersecurity
+
+Outside of my university program, I studied ethical hacking fundamentals using the book:
+
+Daniel G. Graham — “Ethical Hacking: A Hands-on Introduction to Breaking In” (2022)
+
+As part of my self-study, I:
+- worked in isolated and virtual lab environments  
+- practiced using Kali Linux  
+- explored common vulnerabilities and attack vectors  
+- focused on understanding how systems can be protected  
+
+All activities were conducted strictly for educational and ethical purposes.
 
 ---
 
 ## 🛠️ Technologies & Skills
 
-- Programming Languages:  
-  C#, C++, Python
+### Programming
+- C#
+- C++
+- Python
 
-- Databases & Data:  
-  SQL, MS Excel
+### Databases & Data
+- SQL
+- MS Excel
 
-- Enterprise & Systems:  
-  1C
+### Enterprise Systems
+- 1C
 
-- Operating Systems & Tools:  
-  Kali Linux
+### Cybersecurity & OS
+- Kali Linux  
+- Ethical hacking fundamentals  
+- Basic understanding of system and network vulnerabilities
 
 ---
 
@@ -35,16 +57,14 @@ I am motivated to grow professionally, gain real-world experience, and apply my 
 
 - Strengthening programming fundamentals  
 - Practicing SQL and data-related tasks  
-- Learning how software is applied in economics and business processes  
-- Preparing for internships and practical experience
+- Preparing for internships and practical experience in IT
 
 ---
 
 ## 🚀 Goals
 
-- Gain hands-on experience through internships or practical projects  
-- Improve backend and general software development skills  
-- Build a solid GitHub portfolio over time
+- Gain hands-on experience through internships or practical training  
+- Develop strong software and analytical skills  
 
 ---
 
