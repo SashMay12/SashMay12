@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aleksandr
+# Hi, I'm Aleksandr
 
 🎓 Student in Applied Informatics in Economics  
 ⚽ I play football  
